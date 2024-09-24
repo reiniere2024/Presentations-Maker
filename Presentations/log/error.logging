@@ -1,0 +1,8 @@
+*** System Logfile
+
+Execution Date: 30-3-2024 11:00:20 , Program: Presentation LOAD
+Error: De Microsoft.Jet.OLEDB.4.0-provider is niet geregistreerd op de lokale computer.
+Execution Date: 30-3-2024 11:39:48 , Program: Presentation LOAD
+Error: IErrorInfo.GetDescription mislukt met E_FAIL(0x80004005).
+Execution Date: 30-3-2024 11:40:16 , Program: Presentation LOAD
+Error: IErrorInfo.GetDescription mislukt met E_FAIL(0x80004005).
