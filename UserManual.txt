@@ -1,0 +1,58 @@
+Workings (short)
+
+1. running a presentation:
+
+Running a Presentation is quite simple. Start the program. Enter your Presentation-
+number and click on "Start". Then the Presentation will be started.
+The program uses Sans Serif Font, Black Text-colour and Buttonface Background
+colours default but you can change that in the startup-screen if you want.
+
+The Presentation stops at TextBlocks with an "S" or at the end of a Slide and you
+can continue the Presenarion with [Space], [Enter] or [Return].
+When you want to stop the Presentation just press the "Close" button.
+
+That's all.
+
+2. Defining a new presentation:
+
+Enter a Presentation number and press "Start". If the Presentation exists then
+it will be loaded and you will be able to extend or change it. It is does not
+exist you will see an empty screen and you can enter a new Presentation.
+At the start there is an Example presentation with number 1 so you must enter
+2 if you want to start you first new Presentation.
+
+To add subjects from a slide just click "Insert Subject". All details of the
+subject will be filled in and you just have to add the text at the right.
+When you want to add a text-block from let's say 3 lines then just add them
+subsequently in the Presentation. Give the first 2 Action = "D" and the last
+one Action = "S" to arrange that the block is shown in 1 time.
+
+When you want the text to appear left-centered then press the L checkbox.
+Standard the text will appear centered. ( The C checkbox )
+
+When all text of the first slide is added click "new slide" to change the
+slide- and the subject-numbers. Change the last field 'Amount' with the
+actual amount of subjects that you want to add on the slide.
+
+Enter all the remaining slides and subjects from the Presentation and when
+you are ready then you must click the store button left down the screen to
+store the Presentation for later use.
+
+3. Updating an existing presentation:
+
+Enter an existing Presentation number and press "Start". The Presentation will
+be loaded and you will be able to extend or change it.
+Extending the Presentation can be done the same way as you did for defining
+a new presentation that we decribed above.
+
+You can also change all the details of the text or the parameters of subjects
+that already have been defined in the Presentation. When you want to remove
+subjects then click the subject in the grid and press the delete button.
+
+When you are ready with the changes then press the the store button left down 
+the screen to store your updates in the program.
+
+
+
+
+
