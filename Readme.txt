@@ -15,6 +15,9 @@ I have included a simple tutorial Presentation about Databases so that you
 can quickly see how the program works.
 I hope you will be able to make good presentations with the program.
 
+When you open the solution in Visual Studio 2008 then don't forget to move all the maps 
+(except My Project) to the bin/debug directory when you want to run the code.
+
 Good luck,
 Reiniere.
 
